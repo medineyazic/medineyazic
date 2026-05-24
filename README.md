@@ -34,10 +34,6 @@ Statistics graduate interested in data analytics, machine learning, and business
 - Sports Data Analytics
 - Multivariate Statistical Analysis
 
-## Currently
-- Developing analytics and machine learning projects
-- Improving data analysis and business insight skills
-- Exploring data-driven solutions across different domains
 
 <!--
 **medineyazic/medineyazic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
